@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="delhi">
+        Delhi, officially the National Capital Territory of Delhi or NCT, is a city and a union territory of India.There are numerous tourist attractions in Delhi, both historic and modern. The three UNESCO World Heritage Sites in Delhi, Qutb Complex, Red Fort and Humayuns Tomb are among the finest examples of Indo-Islamic architecture.Another prominent landmark of Delhi is India Gate. One of the largest Hindu temple complexes in the world, Akshardham is a major tourist attraction in the city. Other famous religious sites include Laxminarayan Temple, Gurudwara Bangla Sahib, Lotus Temple, Jama Masjid and ISKCON Temple. Delhi is also a hub for shopping of all kinds.
+    </string>
+
+
+    <string-array name="DelhiCityTitles">
+        <item>Red Fort, Delhi</item>
+        <item>India Gate, Delhi</item>
+        <item>Lotus Temple, Delhi</item>
+        <item>Humayun Tomb, Delhi</item>
+        <item>Qutub Minar, Delhi</item>
+        <item>Jama Masjid, Delhi</item>
+        <item>Akshardham, Delhi</item>
+        <item>Rashtrapatibhavan, Delhi</item>
+        <item>Birla Mandir Temple, Delhi</item>
+        <item>Jantar Mantar, Delhi</item>
+    </string-array>
+
+
+
+    <string name="RedFort">
+        The Red Fort-a massive red sandstone fort is synonymous with Delhi and is proof of the glory of the flourishing Mughal Empire in Delhi. The Red Fort is octagonal in design and there are beautiful flower decorations and calligraphy on the walls, examples of later Mughal style architecture.
+    </string>
+
+    <string name="IndiaGate">
+        Synonymous with New Delhi and situated in the heart of the city, India Gate is one of the most popular monuments in the city.The India Gate is flanked by lush green lawns, which are a popular picnic spot, especially during winter afternoons and summer evenings.Adherents of any faith are free to visit.
+    </string>
+
+    <string name="LotusTemple">
+        East of Nehru place, this temple is built in the shape of a lotus flower and is the last of seven Major Bahai"s temples built around the world. Completed in1986 it is set among the lush green landscaped gardens.
+    </string>
+
+    <string name="HumayunTomb">
+        One of the most magnificent tombs built in Delhi during the Mughal rule, the Humayun’s Tomb is an excellent example of Persian architecture. In the Humayun’s Tomb one can see architectural features which over time went on to become important component of Mughal architecture.
+    </string>
+
+    <string name="QutubMinar">
+        The Qutub Minar is a towering 73 meter high tower built by Qutub-ud-Din Aibak in 1193. This tower is the highest tower in India, complete with five storeys and projecting balconies.
+    </string>
+
+    <string name="JamaMasjid">
+        Shah Jahan’s last architectural extravagance, the Jama Masjid towers over Old Delhi and is India’s largest mosque. The Jama Masjid is flanked by slim red and white minarets on all four sides which reach high into the sky.
+    </string>
+
+    <string name="Akshardham">
+        Akshardham means the divine abode of God. It is hailed as an eternal place of devotion, purity and peace. Swaminarayan Akshardham at New Delhi is a Mandir – an abode of God, a Hindu house of worship, and a spiritual and cultural campus dedicated to devotion, learning and harmony.
+    </string>
+
+    <string name="RashtrapatiBhavan">
+        Rashtrapati Bhavan, home to the President of the world’s largest democracy, is emblematic of Indian democracy and its secular, plural and inclusive traditions. It was designed by Sir Edwin Lutyens and Herbert Baker and stands on a 330 acre estate.
+    </string>
+
+    <string name="BirlaMandirTemple">
+        The Birla Mandir Temple, also known as Laxmi Narayan, is a landmark of New Delhi. The huge red, yellow and white three-storey temple was built in the early 1900s.
+    </string>
+
+    <string name="JantarMantar">
+        Jantar Mantar was constrcted in 1724. Maharaja Jai Singh of Jaipur who built this observatory went on to build other observatories in Ujjain , Varanasi and Mathura. Jai Singh had found the existing astronomical instruments too small to take correct measurements and so he built these larger and more accurate instruments.
+    </string>
+
+
+
+    <string-array name="Delhi">
+        <item>@string/RedFort</item>
+        <item>@string/IndiaGate</item>
+        <item>@string/LotusTemple</item>
+        <item>@string/HumayunTomb</item>
+        <item>@string/QutubMinar</item>
+        <item>@string/JamaMasjid</item>
+        <item>@string/Akshardham</item>
+        <item>@string/RashtrapatiBhavan</item>
+        <item>@string/BirlaMandirTemple</item>
+        <item>@string/JantarMantar</item>
+    </string-array>
+
+    <string-array name="delhiCityImagesURLs">
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Delhi_Red_fort.jpg/250px-Delhi_Red_fort.jpg\n</item>
+        <item>http://cloud.transindiatravels.com/wp-content/uploads/india-gate-delhi-india.jpg\n</item>
+        <item>https://im.proptiger.com/6/6/92/delhi-heroshot-image-659701.jpeg\n</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/06/d8/a9/0e/humayun-s-tomb.jpg\n</item>
+        <item>http://www.newdelhiairport.in/images/menu/about-delhi/to-do-5-top.jpg\n</item>
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs360x240/5076/SITours/old-delhi-half-day-small-group-tour-in-delhi-138808.jpg\n</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/01/ba/04/98/unique.jpg\n</item>
+        <item>http://centralexcisedelhi.nic.in/image/Banner3.jpg\n</item>
+        <item>https://images.trvl-media.com/media/content/shared/images/travelguides/destination/180000/Birla-Mandir-Temple-Delhi-68227.jpg\n</item>
+        <item>http://journeymart.com/de/AttrationImages/jantarmantar-monument-delhi.jpg\n</item>
+    </string-array>
+</resources>

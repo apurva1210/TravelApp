@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <string name="hyderabad">
+        Steeped in history, thronged with people and buzzing with commerce, the Old City of Hyderabad is one of India\'s most evocative ancient quarters. Exploring the lanes of this district, with its chai shops and spice merchants, you\'ll encounter a teeming urban masala of colour and commerce. Looming over the Old City is some of Islamic India\'s most impressive architecture, in varying states of repair. Hyderabad is the capital of southern India\'s Telangana state. A major center for the technology industry, it\'s home to many upscale restaurants and shops.
+    </string>
+
+
+    <string-array name="hyderabadCityTitles">
+        <item>Golconda Fort, Hyderabad</item>
+        <item>Charminar, Hyderabad</item>
+        <item>Hussain Sagar, Hyderabad</item>
+        <item>Salar Jung Museum, Hyderabad</item>
+        <item>Birla Mandir, Hyderabad</item>
+        <item>Ramoji Filmcity, Hyderabad</item>
+        <item>Mecca Masjid, Hyderabad</item>
+        <item>Nehru Zoological Park, Hyderabad</item>
+        <item>Chowmahalla Palace, Hyderabad</item>
+        <item>Qutb Shahi tombs, Hyderabad</item>
+    </string-array>
+
+    <string name="golcondaFort">
+        Golkonda is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty west of Hyderabad. It is also a tehsil of Hyderabad district, Telangana, India.
+    </string>
+
+    <string name="Charminar">
+        he Charminar ("Four Minarets"), constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.
+    </string>
+
+    <string name="hussainSagar">
+        Hussain Sagar is a heart shaped lake in Hyderabad built by Ibrahim Quli Qutub Shah in 1563, during the rule of Ibrahim Quli Qutub Shah. It is spread across an area of 5.7 square kilometers and is fed by River Musi.
+    </string>
+
+    <string name="salarJungMuseum">
+        The Salar Jung Museum is an art museum located at Darushifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the three National Museums of India. It has a collection of sculptures, paintings, carvings, textiles, manuscripts, ceramics, metallic artefacts, carpets
+    </string>
+
+    <string name="birlaMandir">
+        Birla Mandir is one of the foremost tourist attractions in Hyderabad. Surely no trip to the city is complete without a visit to this beautiful temple. The best thing about this temple is that it is open to people of all religious faiths. At the very entrance of the temple there is a brass memorial welcoming everyone.
+    </string>
+
+    <string name="ramojiFilmcity">
+        The Ramoji Film City in India is located in Hyderabad. At 1633 acres, it is the largest integrated film city in the world. It holds the Guinness World Records for being the largest film studio complex in the world and measures 674 ha. 2000 acres)
+    </string>
+
+    <string name="meccaMasjid">
+        Mecca Masjid, is one of the oldest mosques in Hyderabad, Telangana in India, and it is one of the largest masajids in India. Makkah Masjid is a listed heritage building in the old city of Hyderabad, close to the historic landmarks of Chowmahalla Palace, Laad Bazaar, and Charminar.
+    </string>
+
+    <string name="nehruZoologicalPark">
+        Nehru Zoological Park  is a zoo located near Mir Alam Tank in Hyderabad, Telangana, India. It is one of the most visited destinations in Hyderabad. Zoo hours vary by season, and the zoo is closed on Mondays. The zoo occupies 380 acres (150 ha) and is adjacent to the 600-acre (240 ha) Mir Alam Tank.
+    </string>
+
+    <string name="chowmahallaPalace">
+        Chowmahalla Palace or Chowmahallatuu (4 Palaces), is a palace of the Nizams of Hyderabad state. It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state. The palace remains the property of Barkat Ali Khan Mukarram Jah, heir of the Nizams.
+    </string>
+
+    <string name="qutbShahitombs">
+        The Qutb Shahi Tombs are located in the Ibrahim Bagh (garden precinct), close to the famous Golkonda Fort in Hyderabad, India. They contain the tombs and mosques built by the various kings of the Qutb Shahi dynasty.
+    </string>
+
+
+    <string-array name="Hyderabad">
+        <item>@string/golcondaFort</item>
+        <item>@string/Charminar</item>
+        <item>@string/hussainSagar</item>
+        <item>@string/salarJungMuseum</item>
+        <item>@string/birlaMandir</item>
+        <item>@string/ramojiFilmcity</item>
+        <item>@string/meccaMasjid</item>
+        <item>@string/nehruZoologicalPark</item>
+        <item>@string/chowmahallaPalace</item>
+        <item>@string/qutbShahitombs</item>
+    </string-array>
+
+    <string-array name="hyderabadCityImagesURLs">
+        <item>http://3.bp.blogspot.com/-y62A9HnXRr4/U7f8wnsQFeI/AAAAAAAABq4/bxFT15Bc1Xk/s1600/Golconda-Fort.jpg\n</item>
+        <item>http://www.culturalindia.net/iliimages/Charminar-ili-45-img-1.jpg\n</item>
+        <item>http://www.arakuvalleytourism.in/uploads/4/2/5/6/4256802/3653128_orig.jpg\n</item>
+        <item>https://d1j3wd17d78ehn.cloudfront.net/system/images/000/024/993/5920c414df8cd4fa9e6b92eab4507b95/banner/Salar-Jung-Museum-1.jpg?1459580753\n</item>
+        <item>http://www.indialine.com/travel/images/birlatemple-jaipur.jpg\n</item>
+        <item>http://www.hyderabadtourism.travel/images/tourist-places/ramoji-filmcity-hyderabad/ramoji-film-city-hyderabad-india.jpg\n</item>
+        <item>http://www.telanganatourism.gov.in/assets/images/destinations/heritage-spots/hyderabad/sliders/mecca-masjid1.jpg\n</item>
+        <item>https://images.trvl-media.com/media/content/shared/images/travelguides/destination/6053329/Nehru-Zoological-Park-75502.jpg\n</item>
+        <item>http://chowmahalla.co.in/wp-content/uploads/2014/03/Mahal1-1024x579.jpg\n</item>
+        <item>http://www.hyderabadtourism.travel/images/tourist-places/qutub-shahi-tombs-hyderabad/qutub-shahi-tombs-photos.jpg\n</item>
+    </string-array>
+</resources>

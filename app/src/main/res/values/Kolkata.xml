@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="kolkata">
+        India’s second-biggest city is a daily festival of human existence, simultaneously noble and squalid, cultured and desperate, decidedly futuristic while splendid in decay. By its old spelling, Calcutta readily conjures images of human suffering to most Westerners – although that"s not a complete picture of this 350-year-old metropolis. Locally, Kolkata is regarded as India’s intellectual, artistic and cultural capital. Although poverty is certainly apparent, the self-made middle class drives the city's core machinery, a nascent hipster culture thrives among its millennial residents and its dapper Bengali gentry frequent grand, old colonial-era clubs.
+     </string>
+
+
+    <string-array name="kolkataCityTitles">
+        <item>Victoria Memorial, Kolkata</item>
+        <item>Howrah Bridge, Kolkata</item>
+        <item>Indian Museum, Kolkata</item>
+        <item>Dakshineswar Kali Temple, Kolkata</item>
+        <item>Eden Gardens,Kolkata</item>
+        <item>Science City Kolkata</item>
+        <item>Kalighat Kali Temple, Kolkata</item>
+        <item>St. Paul\'s Cathedral, Kolkata</item>
+        <item>Maidan, Kolkata</item>
+        <item>Nicco Park,Kolkata</item>
+    </string-array>
+
+    <string name="victoriaMemorial">
+        The Victoria Memorial is a large marble building in Kolkata (formerly Calcutta), West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of Queen Victoria (1819–1901) and is now a museum and tourist destination under the auspices of the Ministry of Culture.
+    </string>
+
+    <string name="howrahBridge">
+        Howrah Bridge is a bridge with a suspended span over the Hooghly River in West Bengal, India. Commissioned in 1943,the bridge was originally named the New Howrah Bridge, because it replaced a pontoon bridge at the same location linking the two cities of Howrah and Kolkata.
+    </string>
+
+    <string name="indianMuseum">
+        Founded in 1814 at the cradle of the Asiatic Society of Bengal (at the present building of the Asiatic Society, 1 Park Street, Kolkata), Indian Museum is the earliest and the largest multipurpose Museum not only in the Indian subcontinent but also in the Asia-Pacific region of the world.
+    </string>
+
+    <string name="dakshineswarKaliTemple">
+        Dakshineswar Kali Temple is a Hindu temple located in Dakshineswar near Kolkata. Situated on the eastern bank of the Hooghly River, the presiding deity of the temple is Bhavatarini, an aspect of Kali, meaning,She who liberates Her devotees from the ocean of existence i.e. Saṃsāra.
+    </string>
+
+    <string name="edenGardens">
+        Eden Gardens is a cricket ground in Kolkata, India established in 1864. It is the home venue of the Bengal cricket team and the IPL franchise cricket team Kolkata Knight Riders, and is also a venue for Test, ODI and T20I matches of the India national cricket team.
+    </string>
+
+    <string name="scienceCityKolkata">
+        Science City, Kolkata is the largest science centre in the Indian subcontinent under National Council of Science Museums (NCSM), Ministry of Culture, Government of India, is at the crossing of Eastern Metropolitan Bypass and J B S Haldane avenue, Kolkata.
+    </string>
+
+    <string name="kalighatKaliTemple">
+        Kalighat was a Ghat (landing stage) sacred to Kali on the old course of the Hooghly river (Bhāgirathi) in the city of Calcutta. The name Calcutta is said to have been derived from the word Kalighat. The river over a period of time has moved away from the temple.
+    </string>
+
+    <string name="paulCathedral">
+        St. Paul\'s Cathedral is an CNI, Church of North India Cathedral of Anglican background in Kolkata, West Bengal, India, noted for its Gothic architecture. It is the seat of the Diocese of Calcutta. The cornerstone was laid in 1839; the building was completed in 1847.
+    </string>
+
+    <string name="Maidan">
+        The Maidan (literally open field) also referred as Brigade Parade Ground is the largest urban park in Kolkata in the Indian state of West Bengal. It is a vast stretch of field and home to numerous play grounds, including the famous cricketing venue Eden Gardens, several football stadia, and Kolkata Race Course.
+    </string>
+
+    <string name="niccoPark">
+        Nicco Park is an amusement park in India, located in Salt Lake City, Kolkata. The park was created to attract tourists to the state by providing family-friendly recreation as well as educative entertainment. Nicco Park opened on 13 October 1991.
+    </string>
+
+
+    <string-array name="Kolkata">
+        <item>@string/victoriaMemorial</item>
+        <item>@string/howrahBridge</item>
+        <item>@string/indianMuseum</item>
+        <item>@string/dakshineswarKaliTemple</item>
+        <item>@string/edenGardens</item>
+        <item>@string/scienceCityKolkata</item>
+        <item>@string/kalighatKaliTemple</item>
+        <item>@string/paulCathedral</item>
+        <item>@string/Maidan</item>
+        <item>@string/niccoPark</item>
+    </string-array>
+
+    <string-array name="kolkataCityImagesURLs">
+        <item>https://www.holidify.com/images/compressed/attractions/attr_1610.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/46/Image-Kolkata_Bridge.jpg\n</item>
+        <item>https://c1.staticflickr.com/4/3047/3042196279_0768f1a825_b.jpg\n</item>
+        <item>http://www.templesofindia.net/sites/default/files/2016-09/Dakshineswar-Kali-Temple-kolkata.jpg\n</item>
+        <item>https://static.sportskeeda.com/wp-content/uploads/2016/07/eden-gardens-1467640106-800.jpg\n</item>
+        <item>http://image3.mouthshut.com/images/Restaurant/Photo/-66773_10404.jpg\n</item>
+        <item>http://journeymart.com/de/AttrationImages/kalighat-kali-temple.jpg\n</item>
+        <item>http://cnicalcutta.org/images/churches/st_pauls_cathedral.jpg\n</item>
+        <item>https://www.makemytrip.com/travel-guide/media/dg_image/kolkata/Maidan_kolkata.jpg\n</item>
+        <item>http://images.mapsofindia.com/my-india/nico-park.jpg\n</item>
+    </string-array>
+
+</resources>

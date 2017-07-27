@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="lucknow">
+        Lucknow is the capital city of Uttar Pradesh.It is also known as the Golden City of the East, Shiraz-i-Hind and The Constantinople of India.Lucknow"s buildings show different styles of architecture with the many iconic buildings built during British and Mughal era. More than half of these buildings lie in the old part of the city.Among the extant architecture there are religious buildings such as Imambaras, mosques, and other Islamic shrines as well as secular structures such as enclosed gardens, baradaris, and palace complexes. Lucknow, a large city in northern India, is the capital of the state of Uttar Pradesh.
+    </string>
+
+    <string-array name="lucknowCityTitles">
+        <item>Bara Imambara, Lucknow</item>
+        <item>Dilkusha Kothi, Lucknow</item>
+        <item>Chota Imambara, Lucknow</item>
+        <item>Lucknow Zoo, Lucknow</item>
+        <item>Ambedkar Park, Lucknow</item>
+        <item>Dr. Ram Manohar Lohia Park, Lucknow</item>
+        <item>Rumi Darwaza, Lucknow</item>
+        <item>Anandi Water Park, Lucknow</item>
+        <item>British Residency Lucknow</item>
+        <item>Gautam Buddha Park, Lucknow</item>
+    </string-array>
+
+    <string name="baraImambara">
+        Bara Imambara, is an imambara complex in Lucknow, India, built by Asaf-ud-Daula, Nawab of Awadh, in 1784. It is also called the Asafi Imambara. Bara means big, and an imambara is a shrine built by Shia Muslims for the purpose of Azadari.
+    </string>
+
+    <string name="dilkushaKothi">
+        Dilkusha Kothi is the remains of an eighteenth-century house built in the English baroque style in the quiet Dilkusha area of Lucknow in India. Today there are only a few towers and external walls as a monument, though the extensive gardens remain.
+    </string>
+
+    <string name="chotaImambara">
+        Chota Imambara, is an imposing monument located in the city of Lucknow, Uttar Pradesh, India. Built as an imambara or a congregation hall for Shia Muslims, by Muhammad Ali Shah, the third Nawab of Awadh in 1838, it was to serve as his own mausoleum and his mother, who is buried beside him.
+    </string>
+
+    <string name="lucknowZoo">
+        Nawab Wazid Ali Shah Prani Udyan earlier known as Prince of Wales Zoological Gardens or popularly known as Lucknow Zoological Garden,  zoo located in the heart of the capital city of Uttar Pradesh. The Central Zoo Authority of India categorizes it as a large zoo.
+    </string>
+
+    <string name="ambedkarPark">
+        Ambedkar Memorial Park is a public park and memorial in Gomti Nagar, Lucknow, Uttar Pradesh, India. It is more formally known as Dr. Bhimrao Ambedkar Samajik Parivartan Prateek Sthal and is also referred to simply as "Ambedkar Park".
+    </string>
+
+    <string name="lohiaPark">
+        Dr Ram Manohar Lohia Park was developed by the Lucknow Development Authority in the Vipin Khand area of Gomti Nagar locality in the memory of great socialist Dr. Ram Manohar Lohia.         Dr Ram Manohar Lohia Park was developed by the Lucknow Development Authority.
+    </string>
+
+    <string name="rumiDarwaza">
+        The Rumi Darwaza n Lucknow, Uttar Pradesh, India, is an imposing gateway which was built under the patronage of Nawab Asaf-Ud-daula in 1784. It is an example of Awadhi architecture.Being an entrance to the city of Lucknow, Russell, the reporter of The New York Times.
+    </string>
+
+    <string name="anandiWaterPark">
+        Established during the year 2002, Anandi Water Park will convince you that it’s a unique water park for fun and adventure for all ages and everybody in Lucknow.Whether it is a week-end or holiday, it  is most liked destination. of the city and of adjoining districts.
+    </string>
+
+    <string name="britishResidencyLucknow">
+        The Residency, also called as the British Residency and Residency Complex, is a group of several buildings in a common precinct in the city of Lucknow, Uttar Pradesh, India. It served as the residence for the British Resident General who was a representative in the court of the Nawab.
+    </string>
+
+    <string name="gautamBuddhaPark">
+        Located in the middle of Martyr\'s Memorial and Bada Imambara, Gautam Buddha Park is perfect for a family outing. The garden was founded in the year 1980 to honour the life of the Buddha, who had spent a considerable time of his life in the city.
+    </string>
+
+
+    <string-array name="Lucknow">
+        <item>@string/baraImambara</item>
+        <item>@string/dilkushaKothi</item>
+        <item>@string/chotaImambara</item>
+        <item>@string/lucknowZoo</item>
+        <item>@string/ambedkarPark</item>
+        <item>@string/lohiaPark</item>
+        <item>@string/rumiDarwaza</item>
+        <item>@string/anandiWaterPark</item>
+        <item>@string/britishResidencyLucknow</item>
+        <item>@string/gautamBuddhaPark</item>
+    </string-array>
+
+    <string-array name="lucknowCityImagesURLs">
+        <item>http://www.thehindu.com/migration_catalog/article10429605.ece/ALTERNATES/LANDSCAPE_615/13mp_Bara_1.jpg\n</item>
+        <item>https://edge.ixigo.com/ixi-api/img/51766fa9e4b0f293655f48ac_600x315.jpg\n</item>
+        <item>http://saveourheritage.in/wp-content/uploads/2013/04/Chota-Imambara-7.jpg\n</item>
+        <item>http://www.nearbylocation.in/wp-content/uploads/2017/02/lucknow-zoo.jpg\n</item>
+        <item>http://img13.deviantart.net/4326/i/2015/202/1/1/ambedkar_park_by_rezaphotography-d64ehxi.jpg\n</item>
+        <item>http://photos.wikimapia.org/p/00/01/58/01/98_big.jpg\n</item>
+        <item>http://img.patrika.com/upload/images/2017/04/24/rumi-1493028763.jpg\n</item>
+        <item>https://i0.wp.com/indialocation.in/wp-content/uploads/2015/05/Anandi-water-park-lucknow1.jpg\n</item>
+        <item>http://yocityindia.com/uploads/lucknow3.jpg\n</item>
+        <item>https://www.bluebeans.in/wp-content/uploads/2016/11/buddh2-550x372.jpg\n</item>
+    </string-array>
+
+</resources>

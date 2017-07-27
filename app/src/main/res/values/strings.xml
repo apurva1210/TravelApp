@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Tourist Info App</string>
+
+
+    <string name="login_id">login id</string>
+    <string name="password">password</string>
+    <string name="login_button">LOGIN</string>
+    <string name="logOut_button">LOGOUT</string>
+    <string name="cityName">city name</string>
+    <string name="famousPlaces_button">FAMOUS PLACES</string>
+    <string name="gallery_button">GALLERY</string>
+    <string name="location_button">LOCATION</string>
+    <string name="title">Title</string>
+    <string name="details">City Details</string>
+    <string name="addPlace">Add Your Own Local Place</string>
+    <string name="newCityTitle">Enter New City Title</string>
+    <string name="newCityDetail">Describe the City</string>
+    <string name="newImage_button">add a photo of the city</string>
+    <string name="save_button">SAVE</string>
+
+    <string-array name="cities">
+        <item>DELHI</item>
+        <item>MUMBAI</item>
+        <item>AHMEDABAD</item>
+        <item>LUCKNOW</item>
+        <item>HYDERABAD</item>
+        <item>BANGALORE</item>
+        <item>CHENNAI</item>
+        <item>KOLKATA</item>
+        <item>+</item>
+    </string-array>
+
+    <string-array name="cityDetail">
+        <item>@string/delhi</item>
+        <item>@string/mumbai</item>
+        <item>@string/ahmedabad</item>
+        <item>@string/lucknow</item>
+        <item>@string/hyderabad</item>
+        <item>@string/banglore</item>
+        <item>@string/chennai</item>
+        <item>@string/kolkata</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="banglore">
+        Cosmopolitan Bengaluru (formerly Bangalore) is one of India"s most progressive and developed cities, blessed with a benevolent climate and a burgeoning drinking, dining and shopping scene. Yes, its creature comforts are a godsend to the weary traveller who has done the hard yards and it\'s a great city for mixing with locals in craft beer joints or quirky independent cafes. It  is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England\’s Windsor Castle
+
+    </string>
+
+    <string-array name="bangaloreCityTitles">
+        <item>Lal Bagh, Bangalore</item>
+        <item>Cubbon Park, Bangalore</item>
+        <item>Bannerghatta National Park, Bangalore</item>
+        <item>ISKCON Temple Bangalore, Bangalore</item>
+        <item>Vidhana Soudha, Bangalore</item>
+        <item>Visvesvaraya Industrial and Technological Museum, Bangalore</item>
+        <item>Ulsoor, Bangalore</item>
+        <item>Wonderla, Bangalore</item>
+        <item>Bull Temple, Bangalore</item>
+        <item>Gavi Gangadhareshwara Temple, Bangalore</item>
+    </string-array>
+
+    <string name="lalBagh">
+        Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southern Bengaluru, India. The garden was originally commissioned by Hyder Ali, the ruler of Mysore, and later finished by his son Tipu Sultan.
+    </string>
+
+    <string name="cubbonPark">
+        Cubbon Park is a landmark lung area of the Bengaluru city, located (12.97°N 77.6°E) within the heart of city in the Central Administrative Area. Originally created in 1870, when Major General Richard Sankey was the then British Chief Engineer of Mysore state, it covered an area of 100 acres.
+    </string>
+
+    <string name="bannerghattaNationalPark">
+        annerghatta National Park, near Bangalore, Karnataka, was founded in 1970 and declared as a national park in 1974.In 2002 a portion of the park, became a biological reserve, the Bannerghatta Biological Park. It is a popular tourist destination with a zoo.
+    </string>
+
+    <string name="iskonTempleBangalore">
+        Sri Radha Krishna Temple has deities of Radha and Krishna located at Rajajinagar, in North Bangalore, Karnataka, India. It is one of the largest ISKCON temples in the world.The temple is a huge cultural complex that was inaugurated in 1997 by Shankar Dayal Sharma.
+    </string>
+
+    <string name="vidhanaSoudha">
+        The Vidhana Soudha located in Bengaluru, is the seat of the state legislature of Karnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian,and incorporates elements of Indo-Saracenic and Dravidian styles.
+    </string>
+
+    <string name="Visvesvaraya">
+        The Visvesvaraya Industrial and Technological Museum, (VITM), Bangalore, India, a constituent unit of the National Council of Science Museums (NCSM), Ministry of Culture, Government of India, was established in memory of Bharat Ratna Sir M Visvesvaraya. The building, with a built up area of 4,000 m2 (43,000 sq ft), was constructed in Cubbon Park.
+    </string>
+
+    <string name="Ulsoor">
+        Ulsoor, or Halasuru  is one of the oldest neighbourhoods in the city of Bangalore. It is located in central Bangalore, and begins roughly near the eastern terminus of MG Road. It is renowned for its numerous temples and rather narrow streets.
+    </string>
+
+    <string name="Wonderla">
+        The loudest, craziest, and the most amazing part of town. This simply is not just an amusement park, but a world of breath-taking charm. It\’s a place to celebrate the smaller moments and share big wonders. Get on one of the many exhilarating rides, or simply laze by the pool.
+    </string>
+
+    <string name="bullTemple">
+        Dodda Basavana Gudi (the Nandhi Temple) is situated in Bull Temple Road, Basavanagudi, area of South Bangalore, part of the largest city of the Indian state of Karnataka. The Hindu temple is inside a park called Bugle Rock.
+    </string>
+
+    <string name="gaviGangadhareshwaraTemple">
+        Gavi Gangadhareshwara Temple also Gavipuram Cave Temple, an example of Indian rock-cut architecture, is located in Bangalore in the state of Karnataka in India. The temple is famous for its mysterious stone discs in the forecourt and the exact planning allowing the sun to shine on shrine in certain time of the year.
+    </string>
+
+
+    <string-array name="Bangalore">
+        <item>@string/lalBagh</item>
+        <item>@string/cubbonPark</item>
+        <item>@string/bannerghattaNationalPark</item>
+        <item>@string/iskonTempleBangalore</item>
+        <item>@string/vidhanaSoudha</item>
+        <item>@string/Visvesvaraya</item>
+        <item>@string/Ulsoor</item>
+        <item>@string/Wonderla</item>
+        <item>@string/bullTemple</item>
+        <item>@string/gaviGangadhareshwaraTemple</item>
+    </string-array>
+
+    <string-array name="bangaloreCityImagesURLs">
+        <item>https://www.holidify.com/images/compressed/4142.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Library_Cubbon_Park.jpg/380px-Library_Cubbon_Park.jpg\n</item>
+        <item>https://i1.wp.com/natureconservation.in/wp-content/uploads/2016/01/14.png\n</item>
+        <item>http://2.bp.blogspot.com/-Sxe1_FcCNZA/USlh7ri-8-I/AAAAAAAADRE/5c2_fhE6sPY/s1600/Temple+View.bmp\n</item>
+        <item>https://www.makemytrip.com/travel-guide/media/dg_image/bangalore/Vidhan-Soudha.jpg\n</item>
+        <item>https://images.mycity4kids.com/business-image/98115/non-formal-science-education4098115.jpg\n</item>
+        <item>http://www.ramakrishnamath.in/style/images/art/slide3.jpg\n</item>
+        <item>https://res.cloudinary.com/simplotel/image/upload/x_0,y_155,w_3152,h_1772,r_0,c_crop,q_60,fl_progressive/w_455,f_auto,c_fit/bangalore-park/Jungle_lagoon_ak8oen\n</item>
+        <item>http://www.indianmirror.com/temples/images/bulltemple-top-img.jpg\n</item>
+        <item>https://49qa8t3ukim12e38n2icwtbr-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/Gavi-Gangadhareshwara-Temple-1.jpg\n</item>
+    </string-array>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="mumbai">
+        Mumbai is the capital city of the Indian state of Maharashtra.The architecture of the city is a blend of Gothic Revival, Indo-Saracenic, Art Deco, and other contemporary styles.Their architectural features include a variety of European influences.Mumbai is situated on the western coast of India and is surrounded by the magnificent Arabian Sea. For this reason, there are a number of beaches in Mumbai and watching the glorious sunsets from these beaches is indeed a heavenly sight.So, make a trip to Mumbais gorgeous beaches, admire nature"s beauty and surrender to the peaceful atmosphere.
+    </string>
+
+    <string-array name="MumbaiCityTitles">
+        <item>Marine Drive, Mumbai</item>
+        <item>Sea Link, Mumbai</item>
+        <item>Gateway Of India, Mumbai</item>
+        <item>Haji Ali Dargah, Mumbai</item>
+        <item>Chhatrapati Shivaji Terminus, Mumbai</item>
+        <item>Iskon Temple, Mumbai</item>
+        <item>State Central Library, Mumbai</item>
+        <item>Buddhist Temple, Mumbai</item>
+        <item>Bandra Kurla Complex, Mumbai</item>
+        <item>Kanheri Caves, Mumbai</item>
+    </string-array>
+
+    <string name="MarineDrive">
+        Marine Drive is the place where Mumbaites hang out to cool down a while from the steamy hurried and busied life. The cool breeze and the calmness of the sea cool down the exhausted lot. Marine Drive is considered as the best pathway for an evening stride.
+    </string>
+
+    <string name="SeaLink">
+        Spanning across the arc of Mumbai"s coastline, this sea link is a civil engineering wonder that reflects the modern infrastructure of the city of Mumbai.The best time to enjoy a ride at this man-made marvel is during the day time when one can drive smoothly on the link with a clear view of the sea below.
+    </string>
+
+    <string name="GatewayOfIndia">
+     The Gateway of India is an emblematic landmark not only in Mumbai but in the entire country. Located on the southern part of the city, the gateway overlooks the splendid Arabian Sea.
+    </string>
+
+    <string name="HajiAli">
+        The Haji Ali Dargah is a historical landmark in Mumbai, and is also one of the most prestigious Islamic symbols situated in South Mumbai. The Haji Ali was built by a wealthy Muslim merchant who became a saint named Haji Ali Shah Bukhari.
+    </string>
+
+    <string name="CST">
+        Chhatrapati Shivaji Terminus (CST) is popular railway station and is a spitting image of Victorian-Gothic style of architecture in India. Located in the heart of Mumbai, the CST is also a \'World Heritage Site\' declared by UNESCO in 2004.
+    </string>
+
+    <string name="IskonTemple">
+    Spread over four acres of land, Radha Ras Bihari Temple (or commonly known as ISKCON temple) in Mumbai is among the most beautiful temples in the city. Located near the Juhu beach with over a hundred-feet high marble domes, the ISKCON temple cannot be ruled out while visiting the Mumbai nagari.
+    </string>
+
+    <string name="StateCentralLibrary">
+    Up the spectacular steps of the grand and imposing Town Hall at Mumbai"s Horniman Circle lies the Asiatic Society of Bombay's library with its treasures of books and periodicals, ancient manuscripts, painted folios, coins, artefacts, maps and prints.
+    </string>
+
+    <string name="BuddhistTemple">
+    The Buddhist Temple of Mumbai is a renowned place of worship among the Buddhist people of India. This place of worship is located on Maulana Abdul Gaffar Khan Road in the north-west suburbs of Worli. This temple remains open daily. You can Visit the Buddhist Temple any time of the day.
+    </string>
+
+    <string name="bkc">
+        Bandra Kurla Complex is one of the key areas for which MMRDA is the "Special Planning Authority". Today, the complex enjoys a status that is similar to that of Nariman Point. The complex is already providing more than two lakh jobs and is a perfect solution to absorb future growth of offices and commercial activities successfully.
+
+    </string>
+
+    <string name="KanheriCaves">
+    One of the airiest places in the city, the Kanheri Caves premises offers a pleasant break from the pollution and the noisy, metropolitan life. Nestled in the Sanjay Gandhi National Park at Borivali, the Kanheri Caves are also known as the "lungs of Mumbai".
+    </string>
+
+    <string-array name="Mumbai">
+        <item>@string/MarineDrive</item>
+        <item>@string/SeaLink</item>
+        <item>@string/GatewayOfIndia</item>
+        <item>@string/HajiAli</item>
+        <item>@string/CST</item>
+        <item>@string/IskonTemple</item>
+        <item>@string/StateCentralLibrary</item>
+        <item>@string/BuddhistTemple</item>
+        <item>@string/bkc</item>
+        <item>@string/KanheriCaves</item>
+    </string-array>
+
+    <string-array name="mumbaiCityImagesURLs">
+        <item>http://s3.india.com/travel/wp-content/uploads/2016/01/marine-drive.jpg\n</item>
+        <item>https://null.co.in/uploads/chapter/image/3/Mumbai_skyline88907.jpg\n</item>
+        <item>http://dgft.gov.in/dgftmumbai/html/images/siteImage.jpg\n</item>
+        <item>http://s3.india.com/travel/wp-content/uploads/2014/09/Mumbai-Haji-Ali.jpg\n</item>
+        <item>http://www.travelportalofindia.com/wp-content/uploads/2017/05/The_Chhatrapati_Shivaji_Terminus.jpg\n</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/09/5e/57/a2/iskcon-temple-mumbai.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/f/f9/Mumbai_03-2016_70_Asiatic_Society_Library.jpg\n</item>
+        <item>http://www.mapsofindia.com/mumbai/places-of-interest/images/buddhist-temple-mumbai.jpg\n</item>
+        <item>http://static.dnaindia.com/sites/default/files/styles/half/public/2016/03/27/442181-bkc2.jpg?itok=bIBYJeg4\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/1200px-Kanheri_Caves_prayer_hall.JPG</item>
+    </string-array>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="ahmedabad">
+        Ahmedabad, Gujarat\'s major city, grows on you. Yes, during peak hours with traffic, noise, and air so thick you can chew it, the place can be a little overwhelming, but it\'s well worth taking the time to get to know this remarkable city. It wins you over with its wealth of architecture – from centuries-old mosques and mausoleums to cutting-edge contemporary design. Then there\'s the fascinating maze of an old quarter, excellent museums, fine restaurants, a bustling street-food scene and the tranquility of the Sabarmati Ashram (Gandhi\’s former headquarters). Ahmedabad, in western India, is the largest city in the state of Gujarat.
+
+
+    </string>
+
+    <string-array name="ahmedabadCityTitles">
+        <item>Sabarmati Ashram, Ahmedabad</item>
+        <item>Jama Mosque, Ahmedabad</item>
+        <item>Kankaria Lake, Ahmedabad</item>
+        <item>Sidi Saiyyed Mosque, Ahmedabad</item>
+        <item>Calico Museum of Textiles, Ahmedabad</item>
+        <item>Teen Darwaza, Ahmedabad</item>
+        <item>Vastrapur Lake, Ahmedabad</item>
+        <item>Sardar Vallabhbhai Patel National Memorial, Ahmedabad</item>
+        <item>Nehru Bridge, Ahmedabad</item>
+        <item>Sidi Bashir Mosque, Ahmedabad</item>
+    </string-array>
+
+    <string name="sabarmatiAshram">
+        Sabarmati Ashram is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall. This was one of the residences of Mohandas Karamchand Gandhi, generally called Mahatma Gandhi.
+    </string>
+
+    <string name="jamaMosque">
+        Jama Mosque, is the most splendid mosque of Ahmedabad, built in 1424 during the reign of Ahmed Shah I. Lying in the old walled city, the mosque is situated outside Bhadra Fort area, along the south side of the road extending from Teen Darwaza to Manek Chowk.
+    </string>
+
+    <string name="kankariaLake">
+        Kankaria Lake, Kankaria Lake, formerly known as Hauz e Qutub, is the second largest lake in Ahmedabad, Gujarat, India. It is located in the south-eastern part of the city, in the Maninagar area. A lakefront is developed around it, which has many public attractions such as a zoo, toy train, kids city.
+    </string>
+
+    <string name="sidiSaiyyedMosque">
+        The Sidi Saiyyed Mosque more popularly known as "Sidi Saiyyid ki Jaali" (Sidi Saiyyed Ni Jaali), built in 1573, is one of the most famous mosques of Ahmedabad. As attested by the marble tablet fixed on the wall of the mosque, it was built by in the retinue of sultan Ahemad ShahBilal Jhajar Khan.
+    </string>
+
+    <string name="calicoMuseumOfTextiles">
+        The Calico Museum of Textiles is located in the city of Ahmedabad in the state of Gujarat in western India. The museum is managed by the Sarabhai Foundation. The museum was founded in 1949[2] by the industrialist Gautam Sarabhai and his sister Gira Sarabhai. Ahmedabad at that time had a flourishing textile industry.
+    </string>
+
+    <string name="teenDarwaza">
+        Teen Darwaza is a historical gateway on the east of Bhadra Fort, Ahmedabad, India. Completed in 1415, it is associated with historical as well as legendary events. The gates are featured in the logo of Ahmedabad Municipal Corporation. The Teen Darwaza was an egress from Bhadra Fort to the eastward. The gateway has three arches which led into a large enclosure, forming the outer courtyard of the palace
+    </string>
+
+    <string name="vastrapurLake">
+        Vastrapur Lake is situated in western part of Ahmedabad. It is officially named after Narsinh Mehta. The lake was beautified by the AMC after 2002 and has since become a popular spot in the city.
+        Every weekend, a large number of people visit this lake.
+    </string>
+
+    <string name="sardarVallabhbhaiPatelNationalMemorial">
+        The Sardar Vallabhbhai Patel National Memorial is a museum and exhibition centre dedicated to Sardar Vallabhbhai Patel at Moti Shahi Mahal, located in Shahibaug, Ahmedabad, Gujarat, near Civil Hospital, Ahmedabad. Moti Shahi Mahal was constructed by the Mughal emperor Shahjahan.
+    </string>
+
+    <string name="nehruBridge">
+       The Nehru Bridge is a major bridge over the river Sabarmati, and serves as an artery of major public transport for the city of Ahmedabad in the state of Gujarat, India. It is a modern and larger bridge compared to the landmark Ellis Bridge, and is dedicated to Jawaharlal Nehru.
+    </string>
+
+    <string name="sidiBashirMosque">
+        Sidi Bashir Mosque was located in the city of Ahmedabad, Gujarat. Due to its unique construction, the minarates of mosque are also called Jhulta Minar or Shaking Minarets. It is believed that the mosque was constructed by Sidi Bashir, a slave of Sultan Ahmed Shah.
+    </string>
+
+
+
+    <string-array name="Ahmedabad">
+        <item>@string/sabarmatiAshram</item>
+        <item>@string/jamaMosque</item>
+        <item>@string/kankariaLake</item>
+        <item>@string/sidiSaiyyedMosque</item>
+        <item>@string/calicoMuseumOfTextiles</item>
+        <item>@string/teenDarwaza</item>
+        <item>@string/vastrapurLake</item>
+        <item>@string/sardarVallabhbhaiPatelNationalMemorial</item>
+        <item>@string/nehruBridge</item>
+        <item>@string/sidiBashirMosque</item>
+    </string-array>
+
+    <string-array name="ahmedabadCityImagesURLs">
+        <item>http://www.mkgandhi.org/images/sabarmati.jpg\n</item>
+        <item>http://3.bp.blogspot.com/-7HyUAD6Igro/UvPa9MasxfI/AAAAAAAABMg/UwE4LbRgYww/s1600/Jama+Masjid,+Ahmedabad.jpg\n</item>
+        <item>https://www.tourmyindia.com/images/kankaria-lake-ahmedabad1.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/18/Carved_Mesh_at_Sidi_Saiyyed_Mosque_-_1.jpg\n</item>
+        <item>http://journeymart.com/de/AttrationImages/calico-museum-of-textiles.jpg\n</item>
+        <item>http://l7.alamy.com/zooms/1777b4c64de04d8fa112addd57b8b7a6/teen-darwaza-of-jama-masjid-in-1423-ad-ahmedabad-gujarat-india-fg0exp.jpg\n</item>
+        <item>http://ahmedabadcity.gov.in/portal/images/Static_images/vastrapurlake3.jpg\n</item>
+        <item>https://www.makemytrip.com/travel-guide/media/dg_image/ahemdabad/22_sardar-vallabhbhai-patel-national-memorial-ahmedabad.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/b0/Nehru_bridge.JPG\n</item>
+        <item>http://www.visitortrip.com/2912-thickbox_default/sidi-bashir-mosque.jpg\n</item>
+    </string-array>
+
+
+</resources>

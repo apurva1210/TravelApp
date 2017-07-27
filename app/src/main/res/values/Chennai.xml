@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <string name="chennai">
+        If you have time to explore Chennai (formerly Madras), this 400-sq-km conglomerate of urban villages and diverse neighbourhoods making up Tamil Nadu\'s capital will pleasantly surprise you. With its sweltering southern heat, roaring traffic and lack of outstanding sights, Chennai has often been seen as the dowdier sibling among India\’s four biggest cities.  But even if you are just caught here between connections, it\’s well worth poking around the museums, exploring the temples, savouring deliciously authentic South Indian delicacies or taking a sunset saunter along Marina Beach.
+    </string>
+
+    <string-array name="chennaiCityTitles">
+        <item>Kapaleeswarar Temple, Chennai</item>
+        <item>Marina Beach, Chennai</item>
+        <item>Fort St. George, Chennai</item>
+        <item>Arignar Anna Zoological Park, Chennai</item>
+        <item>Parthasarathy Temple, Chennai</item>
+        <item>Elliot\'s beach, Chennai</item>
+        <item>Government Museum, Chennai, Chennai</item>
+        <item>Vivekanandar Illam, Chennai</item>
+        <item>St. Thomas Mount, Chennai</item>
+        <item>Vadapalani Murugan Temple, Chennai</item>
+    </string-array>
+
+    <string name="kapaleeswararTemple">
+        Kapaleeshwarar Temple, Mylapore, Chennai is a temple of Shiva located in Mylapore, Chennai in the Indian state of Tamil Nadu. The form of Shiva\'s consort Parvati worshipped at this temple is called Karpagambal is from Tamil, ("Goddess of the Wish-Yielding Tree").
+    </string>
+
+    <string name="marinaBeach">
+        Marina Beach is a natural urban beach in the city of Chennai, India, along the Bay of Bengal.The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.45 km (4.01 mi).  making it the longest natural urban beach in the country and one of the world\'s longest beach ranking with 1.
+    </string>
+
+    <string name="fortStGeorge">
+        Fort St George (or historically, White Town[1]) is the name of the first English (later British) fortress in India, founded in 1644[2] at the coastal city of Madras, the modern city of Chennai. The construction of the fort provided the impetus for further settlements and trading activity.
+    </string>
+
+    <string name="arignarAnnaZoologicalPark">
+        Arignar Anna Zoological Park, also known as the Vandalur Zoo, is a zoological garden located in Vandalur, a suburb in the southwestern part of Chennai, Tamil Nadu, about 31 kilometres from the city centre and 15 kilometres (9.3 mi) from Chennai Airport. It is India\'s largest zoo in terms of area covering 1,300 acres.
+    </string>
+
+    <string name="parthasarathyTemple">
+        The Parthasarathy Temple is an 8th-century Hindu Vaishnavite temple dedicated to the god Krishna, located at Triplicane, Chennai, India. The temple is glorified in the Divya Prabandha, the early medieval Tamil literature canon of the Alvar saints from the 6th–9th centuries CE.
+    </string>
+
+    <string name="elliotsBeach">
+        Elliot\'s Beach is located in Besant Nagar, Chennai, India. It forms the end-point of the Marina Beach shore, and is named after Edward Elliot, onetime chief magistrate and superintendent of police, Madras. It has the Velankanni Church and the Ashtalakshmi Kovil nearby.
+    </string>
+
+    <string name="governmentMuseumChennai">
+        The Government Museum or Madras Museum is a museum of human history and culture located in the neighbourhood of Egmore in Chennai, India. Started in 1851, it is the second oldest museum in India after the Indian Museum in Kolkata. It is particularly rich in archaeological and numismatic collections.
+    </string>
+
+    <string name="vivekanandarIllam">
+        Vivekanandar Illam  earlier known as Ice House or Castle Kernan at Chennai, India is an important place for the Ramakrishna Movement in South India. It is remembered as the place where Swami Vivekananda stayed for nine days when he visited Chennai.
+    </string>
+
+    <string name="stThomasMount">
+        St. Thomas Mount,  is a small hillock located in Chennai, Tamil Nadu, India, near the neighbourhood of Guindy and very close to Chennai International Airport.The ancient Syrian Christian community of India trace the origin of their church to St. Thomas the Apostle, believed to have been martyred in St. Thomas Mount.
+    </string>
+
+    <string name="vadapalaniMuruganTemple">
+        Vadapalani Andavar Temple also called as Vadapalani Murugan Temple is a Hindu temple dedicated to Lord Muruga. It is located in Vadapalani, Chennai.It was renovated in the 1920s and a Rajagopuram was built during that time. The temple has grown in popularity, which is believed to be in part due to the patronage of cinema stars.
+    </string>
+
+
+    <string-array name="Chennai">
+        <item>@string/kapaleeswararTemple</item>
+        <item>@string/marinaBeach</item>
+        <item>@string/fortStGeorge</item>
+        <item>@string/arignarAnnaZoologicalPark</item>
+        <item>@string/parthasarathyTemple</item>
+        <item>@string/elliotsBeach</item>
+        <item>@string/governmentMuseumChennai</item>
+        <item>@string/vivekanandarIllam</item>
+        <item>@string/stThomasMount</item>
+        <item>@string/vadapalaniMuruganTemple</item>
+    </string-array>
+
+    <string-array name="chennaiCityImagesURLs">
+        <item>https://www.gotirupati.com/wp-content/uploads/2016/04/Kapaleeswarar-Temple5-copy.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Marina_Beach.jpg/220px-Marina_Beach.jpg\n</item>
+        <item>http://www.chennai.com/images/fort_st_george.jpg\n</item>
+        <item>http://im.hunt.in/cg/Chennai/City-Guide/anna.jpg\n</item>
+        <item>http://1.bp.blogspot.com/-tstA5pj7XMw/TeNb10T2X4I/AAAAAAAAAGQ/sWWyFwwphmE/s1600/SRI-PARTHASARATHY-TEMPLE-TRIPLICANE-CHENNAI.jpg\n</item>
+        <item>http://s3.india.com/travel/wp-content/uploads/2015/03/Main9.jpg\n</item>
+        <item>https://www.tourmyindia.com/images/state-museum-chennai.jpg\n</item>
+        <item>http://mediacssjs.chennaimath.org/wp-content/uploads/2012/11/VHouse.jpg\n</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/St_Thomas_Church_on_the_Mount.JPG/200px-St_Thomas_Church_on_the_Mount.JPG\n</item>
+        <item>http://3.bp.blogspot.com/-XkjbSRroiYs/U6QN4QVsgpI/AAAAAAAAM4s/-Ua4aK4JGSw/s1600/Vadapalani-Murugan-Temple.jpg\n</item>
+    </string-array>
+</resources>
